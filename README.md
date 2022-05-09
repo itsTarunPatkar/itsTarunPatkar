@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with MySQL and Oracle databases
 - 💬 Ask me about any tech related Stuff
-- 📫 How to reach me: LikedIn- https://www.linkedin.com/in/tarun-patkar-7ab869192
+- 📫 How to reach me: [Linkedin-@TarunPatkar](https://www.linkedin.com/in/tarun-patkar-7ab869192)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Success is not a Milestone.
 
