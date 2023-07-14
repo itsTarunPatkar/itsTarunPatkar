@@ -1,5 +1,5 @@
 
-  <h1 align="center">Hi 👋, I'm Tarun k Patkar</h1>
+  <h1 align="center">Hi 👋, I'm Tarun Kumar Patkar</h1>
 <h3 align="center">Web developer, programmer, and explorer. Welcome to my digital realm, where I create immersive web experiences. Let's embark on a coding adventure together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itstarunpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="itstarunpatkar" /> </p>
